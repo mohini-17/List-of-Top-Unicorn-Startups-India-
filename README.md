@@ -12,5 +12,4 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
 
 So if you are looking for jobs you can also check Jobs at YC startups
 Here's a list of all YC funded companies-
-
-https://www.icloud.com/notes/024Ah0IwrG8n-5j_-zXDGdQFg#New_Note
+https://docs.google.com/document/d/1UwJV-UOhA2UzVQ5BUzor9V0fbqWu8eqb/edit?usp=sharing&ouid=106590305959412388860&rtpof=true&sd=true
